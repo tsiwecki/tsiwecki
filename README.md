@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tsiwecki
 - 👀 I’m interested in a lot of things. Being outside, BBQ'ing, spending time with family, riding my motorcycles.
-- 🌱 I’m currently learning Full Stack Web Development at San Diego Global Knowledge University.
+- 🌱 I completed my Full Stack Web Development at San Diego Global Knowledge University on 10/15/2021.
 - 💞️ I’m looking to collaborate on Full Stack Web Development.
 - 📫 You can each me at: thad.siwecki@gmail.com
 
